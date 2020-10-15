@@ -6,4 +6,3 @@ Hello there, I create To Do List Web App using express and ejs.
 * npm i express body-parser
 * npm i ejs
 
-Preview :
